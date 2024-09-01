@@ -1,9 +1,10 @@
+// import java.util.*;
 public class Day1_Datatypes{
     public static void main(String[] args) {
-         Scanner sc= new Scanner(System.in);
-         int a= sc.nextInt();
-         System.out.println("Value input by user is");
-         System.out.print(a);
+        //  Scanner sc= new Scanner(System.in);
+        //  int a= sc.nextInt();
+        //  System.out.println("Value input by user is");
+        //  System.out.print(a);
 
         
         //   int : 4 bytes
@@ -25,6 +26,6 @@ public class Day1_Datatypes{
         //   5. Assignment Operators: X=Y, X+=y:: X= X+Y, -=, *=, /=, %=, &= , ^=, |=, >>=, <<=
         //      for, while, do-While
 
-         sc.close();
+        //  sc.close();
     }
 }
