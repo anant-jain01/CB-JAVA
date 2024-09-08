@@ -1,8 +1,8 @@
 package recursion;
 public class recursions {
     public static void main(String[] args) {
-        // System.out.println(multiply(5,2));
-        // System.out.println(fact(190));
+         System.out.println(multiply(5,2));
+         System.out.println(fact(190));
          System.out.println(pow(10,2,1));
     }
     /*EXAMPLE */
@@ -18,8 +18,8 @@ public class recursions {
     static int fact(int n){
         if(n==0||n==1)
         return 1;
-        int c=n*fact(n-1);
-        return c;
+    int c=n*fact(n-1);
+    return c;
     }/*int factorialTail(int n, int accumulator) {
     if (n == 1) {
         return accumulator;
