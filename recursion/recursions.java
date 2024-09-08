@@ -1,5 +1,5 @@
 package recursion;
-public class recursion {
+public class recursions {
     public static void main(String[] args) {
         // System.out.println(multiply(5,2));
         // System.out.println(fact(190));

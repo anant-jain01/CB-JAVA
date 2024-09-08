@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package leetcode;
 
 public class q1 {
@@ -18,10 +17,7 @@ public class q1 {
     //     }
     // }
 }
-=======
-package leetcode;
-
-public class q1 {
+// public class q1 {
     // class Solution {/* */
     //     public int[] twoSum(int[] num, int target) {
     //         int[] arr=new int[2];
@@ -37,5 +33,4 @@ public class q1 {
     //         return arr;
     //     }
     // }
-}
->>>>>>> b1a440dc24051dfd33420ddf587c67fe9909f2d0
+// }

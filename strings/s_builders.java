@@ -1,5 +1,5 @@
 package strings;
-public class s_builder{
+public class s_builders{
     public static void main(String[] args) {
        StringBuilder sb=new StringBuilder(10); 
        sb.append("hello");//add

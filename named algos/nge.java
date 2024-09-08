@@ -1,5 +1,6 @@
 public class nge {
     public static void main(String[] args) {
+        //
     }
 //     static int[] NGER(int[] arr){
 //         int maxElement=0;

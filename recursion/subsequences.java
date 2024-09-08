@@ -1,5 +1,5 @@
 package recursion;
-public class subsequence {
+public class subsequences {
     public static void main(String[] args) {
         subs("car","");        
     }
