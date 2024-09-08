@@ -1,3 +1,4 @@
+package recursion;
 public class fibonacci{
     static int fib(int a){
         if(a==0||a==1) return a;

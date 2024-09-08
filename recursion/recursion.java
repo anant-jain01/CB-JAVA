@@ -1,3 +1,4 @@
+package recursion;
 public class recursion {
     public static void main(String[] args) {
         // System.out.println(multiply(5,2));
